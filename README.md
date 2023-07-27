@@ -1,4 +1,4 @@
-# ThatCosmicPanda
+# riftless
 
 Just messing around with programming, I don't actually know what I'm doing. :)
 
