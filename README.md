@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/fTZ2XNp.png" width=25%></img>
+<img src="https://i.imgur.com/Zzgx3aF.png" width=25%></img>
 ## 🌌 About Me
 Hey there, I'm Rift!
 
