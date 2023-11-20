@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Zzgx3aF.png" width=25%></img>
+<img src="https://i.imgur.com/TCr7YUL.png" width=100%></img>
 ## 🌌 About Me
 Hey there, I'm Peter!
 
