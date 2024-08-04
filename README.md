@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/WlhEEMH.png" width=100%></img>
 ## 🌌 About Me
 Hey there, I'm Peter!
 
